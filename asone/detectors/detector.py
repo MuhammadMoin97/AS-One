@@ -5,7 +5,7 @@ from asone.detectors.yolov6 import YOLOv6Detector
 from asone.detectors.yolov7 import YOLOv7Detector
 from asone.detectors.yolor import YOLOrDetector
 from asone.detectors.yolox import YOLOxDetector
-from asone.detectors.yolonas import YOLOnasDetector
+#from asone.detectors.yolonas import YOLOnasDetector
 from asone.detectors.easyocr_detector import TextDetector
 
 from asone.detectors.utils.weights_path import get_weight_path
